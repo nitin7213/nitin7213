@@ -11,8 +11,9 @@ Check out my <a href="https://portfolio-zeta-eosin-85.vercel.app/">**Portfolio**
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm Backend Engineer but designs suits me well!
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily: **.js**, **.cpp**, **.py**,  **.sql**
-- 📖 I am currently reading **Data Structures**
+- 💻 I work with: **.js**, **.cpp**, **.py**,  **.sql**
+- 📖 I am currently reading **Data Structures** - <a href="https://leetcode.com/nitineon123/"> LEETCODE PROFILE</a>          
+
 - 💬 Talk to me about Basketball, ml (both of these are not any kind of insect or animals), silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Anything starts with 'c' is not 'consistency'.
